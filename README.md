@@ -74,6 +74,4 @@ The **death heatmaps** are created to identify **player tendencies** and potenti
 ---
 
 ### **Forward Looking**
-
-- This project not only demonstrates the power of data visualization to inform game decisions, but it also serves as a foundational example of heatmap creation. Inspired by the game development process during my playtests with _Arkheron_, this project was to pilot sample heatmap visualzations. 
-
+This project emerged from my playtests with _Arkheron_, which sparked a curiosity about players' game experience. Gaming has always intrigued me as a blend of imagination and reality, with a heavy emphasis on player experience, or the “feel”. By exploring heatmaps and data visualizations, I gained insights into player behavior—where they spawn or die, where combat occurs, and how weapon placement affects it all. This data lends to crafting an immersive experience that feels organic, subtly guiding the player while maintaining the illusion of control. The ability to utilize data visualizations to enhance game experience excited me, and I am eager to continue exploring this aspect of game development.
